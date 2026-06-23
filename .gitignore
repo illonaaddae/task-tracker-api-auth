@@ -1,3 +1,6 @@
 node_modules/
 .env
 *.log
+*.tmp
+DEFENSE-WALKTHROUGH.md
+RUBRIC-REVIEW.md
