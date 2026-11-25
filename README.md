@@ -8,8 +8,8 @@ RESTful Task Tracker with JWT authentication and role-based access control (RBAC
 
 ### Prerequisites
 
-- Node.js 18+
-- MongoDB running locally (`brew services start mongodb-community`) or a connection string from MongoDB Atlas
+- Node.js 22 or later on a supported LTS release
+- A supported MongoDB release, version 4.4 or later, running locally (`brew services start mongodb-community`) or a connection string from MongoDB Atlas
 
 ### Install
 
