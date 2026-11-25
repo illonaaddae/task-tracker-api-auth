@@ -22,10 +22,10 @@
     "jsonwebtoken": "^9.0.3",
     "mongoose": "^9.7.2",
     "morgan": "^1.11.0",
-    "swagger-jsdoc": "^6.3.0",
+    "swagger-jsdoc": "6.2.8",
     "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.14"
+    "nodemon": "3.1.11"
   }
 }
